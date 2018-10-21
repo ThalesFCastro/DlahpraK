@@ -17,12 +17,13 @@ https://drive.google.com/file/d/1lRxr1KCA06jGcLBDYzenrgqdLQN9awfv/view?usp=shari
 <p>Plataforma web que destrincha o perfil da pessoa em busca de um novo local para morar e gera recomendações de locais/regiões que se adequam ao perfil, aos interesses e preferências dela. O perfil do inquilino será determinado a partir de questionários presentes em nosso website e o mapeamento de regiões será feito através de APIs que extraem dados de diversas fontes relevantes<p>
 
 ## Diferenciais competitivos
-<p>Nossos diferenciais competitivos são:<p> 
+<p>Nossos diferenciais competitivos são:
 - Entregamos para o inquilino a recomendação de regiões para morar, com detalhamento do match entre preferências dele e vantagens do local
 - Inquilino não precisa vasculhar artigos e diversas fontes para determinar se uma região se encaixa no seu perfil
 - Sugestões que não seriam exploradas pelo inquilino que faz 
 - Inquilino não precisa conhecer cidade onde vai morar e mesmo assim irá se sentir seguro para fechar um negócio
-
+<p>
+  
 ## Forma de monetização
 - Gerar e fornecer leads bastante qualificados para imobiliárias e demais empresas do setor de aluguel de imóveis
 
