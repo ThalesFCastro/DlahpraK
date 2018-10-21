@@ -1,5 +1,11 @@
 # DlahpraK
 
+## RESUMO
+<p> Pessoas que estão se mudando não conhecem a cidade onde vão morar. Por outro lado, as empresas de aluguel de imóveis não oferecem ferramentas de busca e seleção que evidenciem as características das regiões onde se encontram os imóveis oferecidos. A ausência de tais informações acaba gerando insegurança por parte do inquilino, lentidão na busca pelo imóvel e pouca assertividade na escolha.
+Nossa solução consiste em uma plataforma web que destrincha o perfil do inquilino e sugere locais/regiões que se adequam ao perfil e interesses dele. O perfil das pessoas será atingido através de questionários e o mapeamento de regiões será feito a partir de diversas fontes web (redes sociais, órgãos do governo, etc).
+O produto desenvolvido fornece leads bastante qualificados e seria monetizado através do estabelecimento de parcerias com plataformas de anúncio e locação de imóveis.
+
+
 ## Projeto
 <p> Este projeto visa desenvolver uma solução criativa e inovadora para revolucionar a forma como as pessoas moram. Para nós, "morar" não se restringe unicamente ao imóvel, mas engloba a região e o ambiente externo ao mesmo, o "mundo lá fora". Afinal de contas, tão bom quanto ter um lar aconchegante é poder desfrutar da vida e das facilidades que a rua, o bairro e a cidade nos oferecem!!<p> 
 
