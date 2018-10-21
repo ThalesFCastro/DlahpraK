@@ -1,0 +1,116 @@
+/*menu de navegação*/
+.container {
+    background-color: #FDFDFD;
+    width: 100%;
+    height: 100%;
+    font-family: 'Roboto', sans-serif;
+}
+
+/*Pagina I - questionário => nesta não haverá botão 'anterior'*/
+
+/*div imagem*/
+
+.navbar {
+    background-color: #506ff4;
+    color: black;
+    height: 60px;
+    width: 100%;
+}
+/*Colocar a logo e acertar dimensionamento*/
+.logo img {
+    width: 50px;
+    height: 50px;
+    
+}
+
+/*teste 1 para o logo*/
+
+ul li {
+    text-decoration: none;
+    list-style: none;
+    font-family: 'Roboto';
+    width: 90px;
+    padding: 20px;
+    
+    
+}
+
+/*Area principal - container*/
+.container {
+    width: 100%;
+    
+}
+img {
+    width: 40%;
+    height: 300px;
+    float: left;
+    margin-right: 50px;
+    
+}
+
+/*div pergunta e resposta*/
+
+/*aside teste*/
+.aside {
+    width: 60%;
+    height: 300px;
+    float: right;
+    
+}
+
+/*Botões*/
+.options {
+    background-color: #FDFDFD;
+    color: #f101;
+    border-radius: 10px;
+    
+}
+
+button .options:hover {
+    background-color: #506FF4;
+    color: white;
+}
+.next {
+    background-color: #FF8888;
+    color:#FDFDFD;
+    border-radius: 10px;
+}
+
+.previous {
+    background-color: #FDFDFD;
+    color:#506FF4;
+    border-radius: 10px;
+    line-height: 40px;
+    width: 120px;
+    font-size: 18px;
+}
+
+button {
+    clear: both;
+    margin: 100px;
+    margin-left: 100px;
+}
+
+.container button:hover {
+    background-color: #506FF4;
+    color: white;
+    
+}
+
+/*formulário aberto*/
+
+form .form {
+    background-color: #FDFDFD;
+    border 0;
+    outline: 0;
+    border-bottom: 10px;
+}
+
+/*footer*/
+
+footer {
+    background-color:  #506ff4;
+    
+
+}
+
