@@ -36,3 +36,4 @@ Nossos diferenciais competitivos são:
 - Usar redes sociais para ampliar conhecimento sobre o inquilino
 
 ## Pitch
+https://drive.google.com/file/d/1Hxs-jOsKCbUl0lhN28ufzEgqaGAUl4vD/view?usp=sharing
